@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "d64af19b2fba611e4a1c",
-    "url": "/restaurant-review-app/static/js/main.d64af19b.chunk.js"
+    "revision": "a893d288472ff15a88b5",
+    "url": "/restaurant-review-app/static/js/main.a893d288.chunk.js"
   },
   {
     "revision": "4b3d5599484fe9b4418f",
@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/restaurant-review-app/static/js/runtime~main.b18ab81a.js"
   },
   {
-    "revision": "7b1f5a34b564eaf294b4129ddbcea9fc",
+    "revision": "e127af981e9c07460feb2df5a9eadb3b",
     "url": "/restaurant-review-app/index.html"
   }
 ];
