@@ -9,7 +9,7 @@ function App() {
     <div>
       <Header />
       <figure className="hero">
-        <img src={process.env.PUBLIC_URL+"pexels-quark-studio-3201921.jpg"} alt="hero-img" />
+        <img src={process.env.PUBLIC_URL+"/pexels-quark-studio-3201921.jpg"} alt="hero-img" />
         <figcaption className="hero-header">
           <h3>Leave a review for your favorite restaurants</h3>
           <a className="child" href="#ww.signup"><h1 className="Ready">Ready? Sign Up</h1><button className="hero-btn">Here</button></a>
