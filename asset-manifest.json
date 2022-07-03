@@ -1,10 +1,11 @@
 {
-  "files": {
-    "main.js": "/restaurant-review-app/static/js/main.f2515feb.js",
-    "index.html": "/restaurant-review-app/index.html",
-    "main.f2515feb.js.map": "/restaurant-review-app/static/js/main.f2515feb.js.map"
-  },
-  "entrypoints": [
-    "static/js/main.f2515feb.js"
-  ]
+  "main.js": "/restaurant-review-app/static/js/main.d64af19b.chunk.js",
+  "main.js.map": "/restaurant-review-app/static/js/main.d64af19b.chunk.js.map",
+  "static/js/1.4b3d5599.chunk.js": "/restaurant-review-app/static/js/1.4b3d5599.chunk.js",
+  "static/js/1.4b3d5599.chunk.js.map": "/restaurant-review-app/static/js/1.4b3d5599.chunk.js.map",
+  "runtime~main.js": "/restaurant-review-app/static/js/runtime~main.b18ab81a.js",
+  "runtime~main.js.map": "/restaurant-review-app/static/js/runtime~main.b18ab81a.js.map",
+  "index.html": "/restaurant-review-app/index.html",
+  "precache-manifest.f2ca8808236523abc56559a480f677e6.js": "/restaurant-review-app/precache-manifest.f2ca8808236523abc56559a480f677e6.js",
+  "service-worker.js": "/restaurant-review-app/service-worker.js"
 }
